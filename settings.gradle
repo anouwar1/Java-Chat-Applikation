@@ -1,0 +1,11 @@
+rootProject.name = 'dako'
+rootProject.buildFileName = 'build.gradle'
+include 'common'
+include 'communication'
+include 'client'
+include 'server'
+include 'benchmark'
+include 'auditlogserver'
+include 'examples'
+include 'testModule'
+
